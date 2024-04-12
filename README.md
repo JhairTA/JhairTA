@@ -16,6 +16,11 @@
 
 * 🌐 You can see some of my projects on [my portfolio](https://jhairtiradodev.netlify.app/)
 
+<br><br><br><br><br><br>
+
+## 👨‍💻 Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=86C73C&height=120&section=footer"/>
