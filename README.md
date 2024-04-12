@@ -12,14 +12,16 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-* Lorem
+  Egresado de la carrera de Desarrollo de Sistemas de Información en IDAT. Mi formación me ha proporcionado sólidos conocimientos en herramientas de programación y en el manejo de bases de datos SQL. Destaco por mi 
+  capacidad para trabajar en equipo, mi orientación a la mejora continua y mi facilidad de adaptación a diferentes entornos de trabajo. Actualmente, estoy enfocado en desarrollar mis habilidades en el área de desarrollo 
+  web Front-end. ¡Espero poder colaborar y crecer en la comunidad de GitHub!
 
 * 🌐 You can see some of my projects on [my portfolio](https://jhairtiradodev.netlify.app/)
 
-<br><br><br><br><br><br>
+<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,sass,vite,express,bootstrap,tailwind,astro,wordpress,git,github,figma,postman,vscode&theme=dark&perline=13)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,sass,vite,express,bootstrap,tailwind,astro,wordpress,git,github,figma,postman,vscode&theme=dark&perline=13)](https://skillicons.dev)
 
 <br>
 
@@ -30,11 +32,7 @@
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhairTA&theme=algolia&hide_border=false" />
-  
 </div>
-
-
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=86C73C&height=120&section=footer"/>
 
