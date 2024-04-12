@@ -18,8 +18,13 @@
 
 <br><br><br><br><br><br>
 
-## 👨‍💻 Languages and Tools:
+## 👨‍💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,sass,vite,express,bootstrap,tailwind,astro,wordpress,git,github,figma,postman,vscode&theme=dark&perline=13)](https://skillicons.dev)
+
+<br>
+
+## 👨‍💻 GitHub Stats:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jhairTA&show_icons=true&locale=en&layout=compact)
 
 
 
