@@ -12,7 +12,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-<p>* <i>Estudante de Ciência da Computação apaixonada por tecnologia e inovação. Desenvolvendo habilidades em programação, algoritmos e análise de dados. Interessado em inteligência artificial, aprendizado de máquina e Ciência de Dados. Comprometida com a aprendizagem contínua e em busca de oportunidades para aplicar meu conhecimento e contribuir para soluções tecnológicas inovadoras.</i></p>
+* Lorem
 
 * 🌐 You can see some of my projects on [my portfolio](https://jhairtiradodev.netlify.app/)
 
