@@ -24,7 +24,14 @@
 <br>
 
 ## 👨‍💻 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jhairTA&show_icons=true&locale=en&layout=compact)
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhairTA&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/?username=jhairTA&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhairTA&theme=algolia&hide_border=false" />
+  
+</div>
 
 
 
