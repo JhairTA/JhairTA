@@ -18,12 +18,12 @@
 
 <br><br><br><br><br><br>
 
-## 👨‍💻 Tech Stack:
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,sass,vite,express,bootstrap,tailwind,astro,wordpress,git,github,figma,postman,vscode&theme=dark&perline=13)](https://skillicons.dev)
 
 <br>
 
-## 👨‍💻 GitHub Stats:
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> GitHub Stats:
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhairTA&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/?username=jhairTA&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
