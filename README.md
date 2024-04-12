@@ -19,7 +19,8 @@
 <br><br><br><br><br><br>
 
 ## 👨‍💻 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,sass,vite,express,bootstrap,tailwind,astro,wordpress,git,github,figma,postman,vscode&theme=dark&perline=13)](https://skillicons.dev)
+
 
 
 
