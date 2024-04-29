@@ -12,9 +12,8 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-<p align="justify">Egresado de la carrera de Desarrollo de Sistemas de Información en IDAT. Mi formación me ha proporcionado sólidos conocimientos en herramientas de programación y en el manejo de bases de datos SQL. 
-   Destaco por mi capacidad para trabajar en equipo, mi orientación a la mejora continua y mi facilidad de adaptación a diferentes entornos de trabajo. Actualmente, estoy enfocado en desarrollar mis habilidades en el área 
-   de desarrollo web Front-end. ¡Espero poder colaborar y crecer en la comunidad de GitHub!</p>
+<p align="justify">Egresado de la carrera de Desarrollo de Sistemas de Información en IDAT. Durante mi formación, adquirí sólidos conocimientos en herramientas de programación y en el manejo de bases de datos SQL. Me destaco por mi capacidad para trabajar en equipo, mi orientación a la mejora continua y mi facilidad de adaptación a diferentes entornos de trabajo. <br/>
+Actualmente, estoy enfocado en desarrollar mis habilidades en el área de desarrollo web Front-end. Me apasiona crear experiencias web interactivas y atractivas para los usuarios. Estoy emocionado de formar parte de la comunidad de GitHub, donde espero colaborar, aprender y crecer como desarrollador.</p>
 
 * 🌐 You can see some of my projects on [my portfolio](https://jhairtiradodev.netlify.app/)
 
